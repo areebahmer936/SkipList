@@ -125,5 +125,4 @@ if __name__=="__main__":
         s.add(w[i])
     s.remove(15)
     s.displayList()
-    #print(s.find(32))
 
